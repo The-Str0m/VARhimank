@@ -32,5 +32,3 @@ Participate in hackathons and learning events
 
 Recent Activity →
 👉 MLH Local Hack Day Project
-
-📊 Profile Views
